@@ -1,0 +1,6 @@
+
+> @lentix/api@0.0.0 test /home/lentix/_Projects_/Repos/Koridore/meta-project/packages/shared/api
+> pnpm run jest
+
+ ELIFECYCLE  Test failed. See above for more details.
+ WARN   Local package.json exists, but node_modules missing, did you mean to install?
